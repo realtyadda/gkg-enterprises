@@ -37,3 +37,23 @@ GitHub Pages serves static files and does not process form submissions or run se
 ## Hosting note
 
 GitHub Pages has usage policies and is not intended as free hosting for a business website primarily directed at facilitating commercial transactions. Review GitHub's current Pages terms before relying on it for ongoing commercial use.
+
+
+## Detailed pages added
+- `water-quality-sensors.html`
+- `temperature-pressure.html`
+- `flow-level.html`
+- `process-analysers.html`
+- `gas-detection-analysis.html`
+- `monitoring-systems.html`
+- `industries.html`
+- `knowledge-centre.html`
+- `about.html`
+- `contact.html`
+
+## Confirmed contact links
+- Phone: `9643394601`
+- WhatsApp: `https://wa.me/919643394601`
+- Email: `sales@gkgenterprises.com`
+
+The pages provide general selection guidance, not guaranteed specifications or confirmed OEM/product availability. Verify exact model documentation before procurement. Static call, WhatsApp and email links open the visitor's communication app; no website form submission or backend is configured.
